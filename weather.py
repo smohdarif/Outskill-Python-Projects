@@ -1,4 +1,6 @@
 import requests
+import json  # Import the json module
+
 
 url = "https://open-weather13.p.rapidapi.com/city"
 
