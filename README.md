@@ -1,8 +1,5 @@
 # Outskill-Python-Projects
 
-
-# Outskill-Python-Projects
-
 ## Calculator
 
 This is a simple calculator program that supports addition and subtraction.
