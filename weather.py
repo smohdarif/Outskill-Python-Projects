@@ -7,7 +7,7 @@ url = "https://open-weather13.p.rapidapi.com/city"
 querystring = {"city":"Atlanta","lang":"EN"}
 
 headers = {
-	"x-rapidapi-key": "b21697a4f3mshc18a3118f1a2e72p142c1bjsn2433e369a8a8",
+	"x-rapidapi-key": "xxxxxx",
 	"x-rapidapi-host": "open-weather13.p.rapidapi.com"
 }
 
